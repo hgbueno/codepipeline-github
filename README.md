@@ -20,8 +20,8 @@
 1. In your repository console create the Webhook:  
    Go to: Settings > Webhooks > Add webhook.  
    Payload URL: Insert the Endpoint Parameter shown in the Output section for Setup Stack.   
-   Content Type: application/json. 
-   Which events would you like to trigger this webhook? Click Let me select individual events.”  
+   Content Type: application/json.   
+   Which events would you like to trigger this webhook? Click Let me select individual events.”    
    Select:   
     - Branch or tag creation. 
     - Branch or tag deletion. 
