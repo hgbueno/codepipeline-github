@@ -15,7 +15,7 @@
    Note: Use Setup parameter = true
 3. Upload the TemplatePipeline.yaml file to S3 Bucket. You can get the BucketName in the Output section for Setup Stack. 
 
-### 3. Back in your Git Account:
+### 3. Back to your Git Account:
 1. In your repository console create the Webhook:
    Go to: Settings > Webhooks > Add webhook
    Payload URL: Insert the Endpoint Parameter shown in the Output section for Setup Stack. 
