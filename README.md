@@ -1,5 +1,5 @@
 ## Overview
-![Alt text](github-codepipeline.png?raw=true)
+![Alt text](github.png?raw=true)
 
 ## Setup
 
