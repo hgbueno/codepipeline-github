@@ -23,10 +23,10 @@
    Content Type: application/json.   
    Which events would you like to trigger this webhook? Click Let me select individual events.”    
    Select:     
-    - Branch or tag creation.   
-    - Branch or tag deletion.   
+   - Branch or tag creation.   
+   - Branch or tag deletion.   
    Remove:    
-    - Pushes.   
+   - Pushes.   
    Click Add Webhooks.   
 
 
