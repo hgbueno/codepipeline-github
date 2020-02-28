@@ -13,8 +13,8 @@
 1. Create the Setup Stack using setup.yaml template.  
    Inform your Personal Access Token as MyGitToken parameter  
 2. Create the Pipeline Stack using TemplatePipeline.yaml template  
-   Note: Use Setup parameter = true  
-3. Upload the TemplatePipeline.yaml file to S3 Bucket.  
+   Note: Use Setup parameter = true and modify the Default value of parameter GitHubOwner to your own GitHub username in TemplatePipeline.yaml template.
+3. Upload the edited TemplatePipeline.yaml file to S3 Bucket.  
    You can get the BucketName in the Output section for Setup Stack.   
 
 ### 3. Back to your Git Account:  
